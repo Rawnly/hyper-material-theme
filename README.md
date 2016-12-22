@@ -1,5 +1,7 @@
 # Material Theme for [Hyper](https://hyper.is) <img width="32" alt="Hyper Material Theme" src="https://cloud.githubusercontent.com/assets/10454741/21241774/9172ddb6-c311-11e6-91ee-e4225ab9560a.gif">
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b4a743f7c2d6467482b54db51a2528cf)](https://www.codacy.com/app/fedevitale99/hyper-material-theme?utm_source=github.com&utm_medium=referral&utm_content=Rawnly/hyper-material-theme&utm_campaign=badger)
+
 <img width="480" alt="Hyper Material Theme" src="https://cloud.githubusercontent.com/assets/10454741/21243792/bbaf728e-c31a-11e6-972f-0995e77a32a0.png">
 
 This is the official [Material Theme](https://github.com/equinusocio/material-theme) porting for [Hyper App](https://hyper.is).
